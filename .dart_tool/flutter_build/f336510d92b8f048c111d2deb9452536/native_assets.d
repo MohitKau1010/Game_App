@@ -1,0 +1,1 @@
+ /Users/teq/AndroidStudioProjects/game_app/.dart_tool/flutter_build/f336510d92b8f048c111d2deb9452536/native_assets.yaml: 
